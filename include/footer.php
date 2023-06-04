@@ -140,7 +140,7 @@
             </div>
             <div class="bottom-footer">
                <div class="container">
-                  <div class="copy-right text-center">Created &copy; by <a href="https://cutt.ly/ashishkumar" target="_blank">Ashish</a> and <a href="https://maurya-offical.github.io/Shivam/" target="_blank">Shivam</a></div>
+                  <div class="copy-right text-center">Created by <a href="https://cutt.ly/ashishkumar" target="_blank">Ashish</a> and <a href="https://maurya-offical.github.io/Shivam/" target="_blank">Shivam</a></div>
                </div>
             </div>
          </footer>
